@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG10496
   title: སྨྱུང་གནས་བླ་མ་བརྒྱུད་པའི་རྣམ་ཐར།
-  volume: ''
+  volume:
+    996f7f8d2c7d41b898500ee4b54b6b58:
+      image_group_id: I1KG12443
+      title: Volume 1 of smyung gnas bla ma brgyud pa'i rnam thar/
+      volume_number: 1
+      total_pages: 220
   author: ''
+ebook_metadata:
+  title: སྨྱུང་གནས་བླ་མ་བརྒྱུད་པའི་རྣམ་ཐར།
+  author: ''
+  sku: P006990
+  cover: cover.jpg
+  layers:
+  - pagination
